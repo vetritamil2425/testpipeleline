@@ -16,7 +16,7 @@ jobs:
 
       - name: Build project
         run: |
-          echo "Building project..."
+          echo "Building project for priya devops..."
 
   test:
     name: Test
